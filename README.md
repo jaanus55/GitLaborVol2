@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Git Labor Projekt
 
 **Autor:** Jaanus Salm  
@@ -30,3 +31,6 @@ cat > README.md << 'EOF'
 =======
 EOF
 >>>>>>> ea34c5457a36c7b3e36d55a178b39dec86e12f06
+=======
+
+>>>>>>> 6e19b2dda0a3f9a5132341ce2d24f2e5735282e2
