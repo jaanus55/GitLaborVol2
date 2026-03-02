@@ -1,3 +1,3 @@
 ﻿#!/bin/bash
-echo "Tere, Git! Kuidas sul läheb täna?"
-echo "See on pikendatud tervitus."
+echo "Tere / Hello, Git!"
+echo "Kuidas sul läheb täna? / How are you today?"
