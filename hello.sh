@@ -1,3 +1,3 @@
 ﻿#!/bin/bash
-echo "Hello, Git! Welcome to the project!"
-echo "This is an extended greeting in English."
+echo "Tere / Hello, Git!"
+echo "Kuidas sul läheb täna? / How are you today?"
